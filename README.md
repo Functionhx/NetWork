@@ -1,6 +1,9 @@
 # NetWork
 ## YOLO 上手 ultralytics
 
+概念详解:
+
+cuda、nvcc、GPU、深度学习框架、N卡驱动、pytorch、cudnn、TensorRT、onnx、anaconda、python、cuda Toolkit...
 
 
 ## [从全连接层开始](https://www.bilibili.com/video/BV1hE411t7RN)
