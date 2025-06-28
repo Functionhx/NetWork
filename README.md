@@ -12,6 +12,8 @@ dilation:
 
 groups:
 
+1.深度可分离卷积:
+
 
 ## [从minst重新看神经网络](https://github.com/Functionhx/NetWork/blob/master/0minst.py)
 
