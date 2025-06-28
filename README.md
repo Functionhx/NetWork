@@ -12,6 +12,8 @@ dilation:
 
 groups:
 
+0.[1x1卷积核的作用](https://zhuanlan.zhihu.com/p/40050371):理解为全连接层
+
 1.[深度可分离卷积](https://blog.csdn.net/m0_37605642/article/details/134174749)
 
 
