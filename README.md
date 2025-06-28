@@ -9,6 +9,8 @@ cuda、nvcc、GPU、深度学习框架、N卡驱动、pytorch、cudnn、TensorRT
 ## [从全连接层开始](https://www.bilibili.com/video/BV1hE411t7RN)
 
 ### nn.Conv2d 参数详解:
+[卷积动画制作](https://github.com/vdumoulin/conv_arithmetic)
+
 dilation:
 
 [​​dilation动画详解](https://blog.csdn.net/weixin_42363544/article/details/123920699)
